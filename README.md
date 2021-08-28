@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SolVventura
+- 👋 Hi, I’m @SolVentura
 - 👀 I’m interested in learning programming
 - 🌱 I’m currently learning basics
 - 💞️ I’m looking to collaborate on ...
